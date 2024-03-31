@@ -365,6 +365,7 @@ form {
   align-items: center;
   justify-content: space-evenly;
   width: 800px;
+  top: 540px;
 }
 @media (max-width: 800px) {
   .location-and-date-box {
