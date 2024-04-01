@@ -1165,6 +1165,9 @@ i:hover {
   
 }
 @media(max-width:700px){
+  .footer-left-section,.footer-right-section{
+    transform: scale(0.7);
+  }
   .footer-icon{
     width:  28px;
     height: 28px;
