@@ -1,0 +1,13 @@
+body{
+    background-image: url(vm3.jpg);
+    background-attachment: fixed;
+}
+p br{
+    font-size: 25px;
+}
+
+img{
+    background-color: rgb(80, 80, 80);
+    padding: 20px;
+    border-radius: 20px;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(153, 153, 153, 0.737);
+}
+h1{
+    background-color: rgb(149, 149, 149);}
+
+h2{
+    font-size: 25px;
+}
+    
+.background-clip{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}

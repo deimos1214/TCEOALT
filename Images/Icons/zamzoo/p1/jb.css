@@ -1,0 +1,22 @@
+body{
+ 
+    background-image:url(./istockphoto-1346593827-612x612.jpg);
+    background-attachment: fixed;
+}
+
+p{
+    font-size: 25px;
+}
+
+ul{
+    font-size: 20px;
+}
+p1{
+    font-size: 20px;
+}
+img{
+    border: solid;
+    border-color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
