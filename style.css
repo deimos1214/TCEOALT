@@ -1164,9 +1164,12 @@ i:hover {
   width: 60%;
   
 }
-@media(max-width:700px){
-  .footer-left-section,.footer-right-section{
-    transform: scale(0.7);
+@media(max-width:600px){
+  .footer-left-section{
+    padding-left: 10px;
+  }
+  .footer-left-section h1{
+    font-size: 12px;
   }
   .footer-icon{
     width:  28px;
@@ -1175,5 +1178,19 @@ i:hover {
   .footer-icon a{
     width:  48px;
     height: 48px;
+  }
+  .footer-left-section img{
+    width: 12px;
+    height: 12px;
+  }
+  .footer-right-section{
+    width: 45%;
+  }
+  .footer-right-section h1{
+    font-size: 16px;
+  }
+  .footer-right-section p{
+    font-size: 12px;
+    width: 100%;
   }
 }
