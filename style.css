@@ -1032,6 +1032,7 @@ i:hover {
   color: gray;
 }
 .footer{
+  overflow: hidden;
   height: auto;
   background: rgb(56,56,56);
  background: linear-gradient(90deg, rgb(27, 27, 27) 0%, rgba(20, 28, 31) 30%, rgb(20, 28, 31) 70%, rgba(27, 27, 27) 100%);
@@ -1162,4 +1163,14 @@ i:hover {
 .footer-icon-png{
   width: 60%;
   
+}
+@media(max-width:700px){
+  .footer-icon{
+    width:  28px;
+    height: 28px;
+  }
+  .footer-icon a{
+    width:  48px;
+    height: 48px;
+  }
 }
